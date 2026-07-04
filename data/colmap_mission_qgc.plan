@@ -1,0 +1,499 @@
+{
+  "fileType": "Plan",
+  "groundStation": "QGroundControl",
+  "mission": {
+    "cruiseSpeed": 5,
+    "hoverSpeed": 3,
+    "firmwareType": 12,
+    "vehicleType": 2,
+    "version": 2,
+    "plannedHomePosition": [
+      41.05012858170801,
+      -74.0042009373366,
+      0
+    ],
+    "items": [
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.05012858170801,
+          -74.0042009373366,
+          173.17954054788754
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.050175461193675,
+          -74.00418037227838,
+          172.33222482364886
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.050254609633306,
+          -74.00429878495711,
+          160.75770108598712
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.0498726884097,
+          -74.00431004809813,
+          183.31817100729003
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.049808383822224,
+          -74.00425382486564,
+          191.68572976706588
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.049756350702005,
+          -74.0044781844275,
+          201.43717819106007
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.05056244418889,
+          -74.00496891272097,
+          154.3030052352112
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.0506814933837,
+          -74.00484895935581,
+          143.06908422040758
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.05071049320525,
+          -74.0048751924422,
+          142.83750095115798
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.05075272504008,
+          -74.0056632779025,
+          144.7003293069409
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.050687197138565,
+          -74.00576105277055,
+          146.93918914486355
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.05043720109369,
+          -74.00594484901771,
+          165.24817957050988
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.05046181229719,
+          -74.00614580402562,
+          149.80662154058095
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.049702968303414,
+          -74.00640364963533,
+          201.15953815323533
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.049563311125794,
+          -74.00626632548929,
+          211.19777534752723
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 16,
+        "frame": 3,
+        "params": [
+          0,
+          0,
+          0,
+          null,
+          41.04953620071636,
+          -74.00595511270657,
+          218.58129162410216
+        ],
+        "type": "SimpleItem"
+      },
+      {
+        "autoContinue": true,
+        "command": 205,
+        "frame": 2,
+        "params": [
+          0.0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          2
+        ],
+        "type": "SimpleItem"
+      }
+    ]
+  },
+  "version": 1
+}
