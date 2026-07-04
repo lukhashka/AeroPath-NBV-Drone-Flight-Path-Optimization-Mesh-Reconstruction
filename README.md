@@ -6,10 +6,9 @@ AeroPath-NBV is an automated 3D computational pipeline designed to solve a criti
 
 By analyzing local geometric density, the system generates optimized, collision-free flight paths to close photogrammetric blind spots, allowing operators to fix incomplete scans before leaving the survey site.
 
-<p align="center">
-  <img src="assets/images/assets_01.png" width="48%" alt="Flight Path Visualization with .kmz ( Opened in Google Earth Pro )">
-  <img src="assets/images/assets_02.png" width="48%" alt="Flight Path Visualization">
-</p>
+| Flight Path Visualization with .kmz ( Opened in Google Earth Pro ) | Optimized Flight Trajectory |
+|:------------:|:------------------------:|
+| ![](assets/images/assets_01.png) | ![](assets/images/assets_02.png) |
 
 ---
 
